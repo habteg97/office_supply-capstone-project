@@ -1,1 +1,1 @@
-# office_supply
+**Office_supply**: A company held a telemarketing campaign to its existing customers and wants to know its potential customers to target for future campaigns. Moreover, for those who respond the campaign, the office supply company needs to calculate the contribution they made.
